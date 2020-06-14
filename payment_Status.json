@@ -1,0 +1,30 @@
+[
+{
+  "model": "payment.status",
+  "pk": 1,
+  "fields": {
+    "name": "payed"
+  }
+},
+{
+  "model": "payment.status",
+  "pk": 2,
+  "fields": {
+    "name": "waiting"
+  }
+},
+{
+  "model": "payment.status",
+  "pk": 3,
+  "fields": {
+    "name": "declined"
+  }
+},
+{
+  "model": "payment.status",
+  "pk": 4,
+  "fields": {
+    "name": "error"
+  }
+}
+]

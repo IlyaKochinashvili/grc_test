@@ -1,0 +1,46 @@
+[
+{
+  "model": "payment.payment",
+  "pk": 1,
+  "fields": {
+    "number": 123456789,
+    "date": "2020-06-01",
+    "sum": 50000,
+    "purpose_of_payment": "1",
+    "status": 1
+  }
+},
+{
+  "model": "payment.payment",
+  "pk": 2,
+  "fields": {
+    "number": 987654321,
+    "date": "2020-06-16",
+    "sum": 51653,
+    "purpose_of_payment": "2",
+    "status": 2
+  }
+},
+{
+  "model": "payment.payment",
+  "pk": 3,
+  "fields": {
+    "number": 321456987,
+    "date": "2020-04-28",
+    "sum": 1872362,
+    "purpose_of_payment": "3",
+    "status": 3
+  }
+},
+{
+  "model": "payment.payment",
+  "pk": 4,
+  "fields": {
+    "number": 444443333,
+    "date": "2020-05-17",
+    "sum": 900000,
+    "purpose_of_payment": "4",
+    "status": 4
+  }
+}
+]
